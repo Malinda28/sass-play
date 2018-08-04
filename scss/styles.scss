@@ -67,3 +67,8 @@ section h1{
     @include banner;
     text-align: right;
 }
+
+.lead-banner{
+    @include banner;
+    
+}

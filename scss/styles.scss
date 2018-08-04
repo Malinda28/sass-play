@@ -15,7 +15,11 @@ $offWhite: #f8f9fb;
         width: 14%;
     }
     a{
-        color: 
+        color: $offWhite;
+        text-decoration: none;
+        padding: 16px;
+        display: block;
+        text-align: center;
     }
 }
 

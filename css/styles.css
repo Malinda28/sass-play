@@ -34,6 +34,11 @@ li {
 #main-nav ul {
   width: 100%;
 }
+#main-nav ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
 #main-nav li {
   float: left;
   width: 14%;
@@ -47,12 +52,6 @@ li {
 }
 #main-nav a:hover {
   background: #333;
-}
-
-#main-nav ul:after {
-  content: "";
-  display: block;
-  clear: both;
 }
 
 section h1 {

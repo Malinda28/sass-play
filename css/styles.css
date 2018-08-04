@@ -4,6 +4,10 @@
 #main-nav ul {
   width: 100%;
 }
+#main-nav li {
+  float: left;
+  width: 14%;
+}
 
 section h1 {
   font-size: 24px;

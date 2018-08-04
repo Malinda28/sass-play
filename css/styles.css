@@ -27,4 +27,28 @@ section h1 {
   color: #032f3e;
 }
 
+.lead-banner {
+  width: 100%;
+  position: ralative;
+  color: white;
+}
+.lead-banner .banner-content {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+}
+.lead-banner img {
+  width: 100%;
+}
+.lead-banner span {
+  font-size: 46px;
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.lead-banner span.title {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
 /*# sourceMappingURL=styles.css.map */

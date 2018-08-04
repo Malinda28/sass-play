@@ -7,7 +7,7 @@
 
     ul{
         width: 100%;
-        
+        @include clearFix;
     }
     li{
         float: left;

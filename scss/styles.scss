@@ -5,6 +5,34 @@ $sectionHeading: 24px;
 $offWhite: #f8f9fb;
 $bannerHeading: 46px;
 
+
+// Mixins
+
+@mixin banner{
+    width: 100%;
+    position: ralative;
+    color: white;
+    .banner-content{
+        position: absolute;
+        top: 50px;
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+    span{
+        font-size: $bannerHeading;
+        display: block;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    span.title{
+        font-weight: normal;
+        margin-bottom: 30px;
+    }
+}
+
+
 #main-nav{
     background: $deepBlue; 
 

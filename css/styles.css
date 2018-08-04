@@ -31,6 +31,7 @@ section h1 {
   width: 100%;
   position: ralative;
   color: white;
+  text-align: right;
 }
 .lead-banner .banner-content {
   position: absolute;

@@ -145,9 +145,9 @@ section h1 {
   float: left;
   margin-right: 1%;
   margin-bottom: 1%;
-  width: 11.625%;
+  width: 9.1%;
 }
-#projects li:nth-child(8n) {
+#projects li:nth-child(10n) {
   margin-right: 0;
 }
 #projects li img {

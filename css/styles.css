@@ -143,11 +143,11 @@ section h1 {
 
 #projects li {
   float: left;
-  margin-right: 1%;
-  margin-bottom: 1%;
-  width: 9.1%;
+  margin-right: 4%;
+  margin-bottom: 4%;
+  width: 16.8%;
 }
-#projects li:nth-child(10n) {
+#projects li:nth-child(5n) {
   margin-right: 0;
 }
 #projects li img {

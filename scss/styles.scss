@@ -20,7 +20,7 @@
         display: block;
         text-align: center;
         &:hover{
-            background: lighten($deepBlue, 80);
+            background: lighten($deepBlue, 5);
         }
     }
 }// end #main-nav

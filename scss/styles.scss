@@ -72,6 +72,7 @@ section h1{
 }
 
 #projects li{
+    @include grid(5, 2%);
     img{
         width: 100%;
     }

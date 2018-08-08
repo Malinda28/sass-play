@@ -141,4 +141,8 @@ section h1 {
   clear: both;
 }
 
+#projects li img {
+  width: 100%;
+}
+
 /*# sourceMappingURL=styles.css.map */

@@ -133,7 +133,7 @@ section h1 {
   font-weight: bold;
 }
 #services a:hover {
-  color: red;
+  color: #3e1203;
 }
 #services ul:after {
   content: "";

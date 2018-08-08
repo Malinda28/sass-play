@@ -70,3 +70,9 @@ section h1{
         @include clearFix;
     }
 }
+
+#projects li{
+    img{
+        width: 100%;
+    }
+}
